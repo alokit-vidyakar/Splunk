@@ -9,5 +9,21 @@ After doing this add, I have created this text file using vim. Gonna commit now 
 the commit gave output that master branch is upto date and doesnot have any file to add.
 if you want to add this file then add the file and commit again.
 
+
+
+
 ***********adding**********************
-this line is just added. Now I will not add this file but will commit the repo after adding new file named add2.txt 
+this line is just added. Now I will not add this file but will commit the repo after adding new file named add2.txt
+
+************result*****************
+This change was not pushed as I didn't added it to staging area. 
+
+
+
+
+
+Now added all. Now, I have added this file before writing this line. Will commit after closing and will observe if this change is noticed or not.
+
+****************result**************************
+This line was not added in file as the lines were modified after add the file. Now will follow the normal procedure.
+Will run the add command and will commit-> push. This time changes will be reflected.`
