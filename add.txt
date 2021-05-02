@@ -7,4 +7,7 @@ After doing this add, I have created this text file using vim. Gonna commit now 
 ******************RESULT******************************
 
 the commit gave output that master branch is upto date and doesnot have any file to add.
-if you want to add this file then add the file and commit again. 
+if you want to add this file then add the file and commit again.
+
+***********adding**********************
+this line is just added. Now I will not add this file but will commit the repo after adding new file named add2.txt 
