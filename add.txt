@@ -1,0 +1,10 @@
+this is just a file for checking.
+What I have done till now is that I have cloned the repository splunk from my GIThub acoount
+Now i have done an init on outer folder. Havan't done init on this folder.
+Now, I have performed git add .
+After doing this add, I have created this text file using vim. Gonna commit now so see if it gets added in my got repo or not
+
+******************RESULT******************************
+
+the commit gave output that master branch is upto date and doesnot have any file to add.
+if you want to add this file then add the file and commit again. 
