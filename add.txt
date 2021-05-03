@@ -26,4 +26,9 @@ Now added all. Now, I have added this file before writing this line. Will commit
 
 ****************result**************************
 This line was not added in file as the lines were modified after add the file. Now will follow the normal procedure.
-Will run the add command and will commit-> push. This time changes will be reflected.`
+Will run the add command and will commit-> push. This time changes will be reflected.
+
+
+******************git difference**********
+
+**************git commit and push without staging***********
