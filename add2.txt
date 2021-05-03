@@ -1,6 +1,1 @@
-this file will be added and pushed. Let's see if after push,does staging area, that is add section, is there or not
-
-
-
-
-adding the line. will perform add statement. Then will check te status of the git. right now it is upto date. want to see other options 
+d
