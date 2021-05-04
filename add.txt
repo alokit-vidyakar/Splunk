@@ -31,4 +31,4 @@ Will run the add command and will commit-> push. This time changes will be refle
 
 ******************git difference**********
 
-**************git commit and push without staging***********
+**************git commit and push without staging
